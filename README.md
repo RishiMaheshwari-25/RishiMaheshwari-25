@@ -1,235 +1,174 @@
-
-<img src="https://img.shields.io/github/followers/RishiMaheshwari-25?style=for-the-badge&color=0D9DFF&label=FOLLOWERS" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
-<h2 align="center">✦ &nbsp; A LITTLE ABOUT ME &nbsp; ✦</h2>
+<!-- PROFILE HEADER -->
 
 <div align="center">
 
-Building with Logic. Creating with Passion. Innovating with AI.
+👋 HEY, I'M RISHI MAHESHWARI
 
-</div>
+💻 FULL-STACK DEVELOPER | MERN STACK | GENERATIVE AI
 
-I'm Rishi Maheshwari, a Full-Stack Developer passionate about engineering modern web experiences and exploring the possibilities of Artificial Intelligence.
-
-I love working at the intersection of Frontend Engineering, Backend Architecture, and Generative AI — transforming ideas into functional, scalable, and intelligent digital solutions.
-
-My development philosophy is simple: write clean code, solve meaningful problems, keep learning, and never stop building.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Exploring+Generative+AI+%26+LLMs;Building+Real+World+Applications;Always+Learning+New+Technologies" />
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://komarev.com/ghpvc/?username=RishiMaheshwari-25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
-💻 What I Do
+<br/><br/>
 
-Full-Stack Web Development
-
-Modern Frontend Engineering
-
-Backend & REST API Development
-
-Database Design & Management
-
-Authentication & Application Security
-
-AI-Powered Application Development
-
-</td>
-<td width="50%" valign="top">
-
-🚀 What Drives Me
-
-Exploring emerging technologies
-
-Building scalable applications
-
-Learning AI Engineering
-
-Solving challenging problems
-
-Improving code quality
-
-Growing as a software engineer
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-<h2 align="center">⚡ &nbsp; TECHNOLOGIES & EXPERTISE &nbsp; ⚡</h2>
-
-<p align="center">
-<i>The technologies I use to turn ideas into reality.</i>
-</p>
-
-<h3 align="center">🌐 Programming Languages</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
-</p>
-
-<h3 align="center">🎨 Frontend Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,redux,sass&theme=dark" />
-</p>
-
-<h3 align="center">⚙️ Backend Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-<h3 align="center">🗄️ Databases & Vector Storage</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
-<img src="https://img.shields.io/badge/Pinecone-00B894?style=for-the-badge&logo=pinecone&logoColor=white" />
-</p>
-
-<h3 align="center">🤖 Generative AI & AI Engineering</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Generative_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-5C6BC0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_Databases-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embeddings-673AB7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-<h3 align="center">🛠️ Tools & Development Environment</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,vercel,linux&theme=dark" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ KNOWLEDGE ═══════════════════════ -->
-
-<h2 align="center">🧠 &nbsp; MY TECHNICAL FOCUS &nbsp; 🧠</h2>
-
-<div align="center">
-
-💡 Domain
-
-⚙️ Focus Areas
-
-Frontend Engineering
-
-React, Redux, Responsive Interfaces
-
-Backend Engineering
-
-Node.js, Express, REST APIs
-
-Application Security
-
-JWT, RBAC, Authentication
-
-Database Engineering
-
-MongoDB, MySQL, Redis
-
-AI Engineering
-
-LLMs, LangChain, RAG
-
-Intelligent Search
-
-Embeddings, Pinecone, Semantic Search
-
-Development Workflow
-
-Git, GitHub, Docker
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
-
-<h2 align="center">📊 &nbsp; GITHUB ANALYTICS &nbsp; 📊</h2>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishiMaheshwari-25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMaheshwari-25&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=RishiMaheshwari-25&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
-
-<h2 align="center">🌌 &nbsp; CONTRIBUTION ACTIVITY &nbsp; 🌌</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiMaheshwari-25&bg_color=0d1117&color=00d9ff&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-<h2 align="center">🏆 &nbsp; GITHUB ACHIEVEMENTS &nbsp; 🏆</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RishiMaheshwari-25&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
-</p>
-
-<br/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-<h2 align="center">🌐 &nbsp; LET'S CONNECT &nbsp; 🌐</h2>
-
-<p align="center">
-<i>Good things happen when passionate people connect.</i>
-</p>
-
-<p align="center">
 <a href="https://github.com/RishiMaheshwari-25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/RishiMaheshwari-25?label=Followers&style=for-the-badge&color=blue" />
 </a>
-<a href="https://www.linkedin.com/in/rishi-maheshwari-295313322/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rishimaheshwari2527@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+</div>
+
+🧑‍💻 ABOUT ME
+
+Name: Rishi Maheshwari
+Role: Full-Stack Developer
+Education: B.Tech in IIoT
+University: GGSIPU, Delhi
+Graduation: 2028
+
+Interests:
+  - Full-Stack Development
+  - Backend Engineering
+  - Generative AI
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - Data Structures & Algorithms
+
+Currently Learning:
+  - Advanced Backend Development
+  - LangChain & LangGraph
+  - AI Agents and RAG Systems
+  - Problem Solving with C++
+
+I'm a developer passionate about designing and building modern web applications and AI-powered solutions. I enjoy working across the frontend and backend, understanding system architecture, and transforming ideas into functional products.
+
+I believe in continuous learning, writing maintainable code, and building applications that solve real-world problems.
+
+💪 TECHNICAL SKILLS
+
+🌐 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<br/>
+🎨 Frontend Development
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+⚙️ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+🗄️ Databases & Storage
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+</p>
+
+🤖 Generative AI & AI Engineering
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tavily-2563EB?style=for-the-badge"/>
+</p>
+
+🔧 Developer Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/ImageKit-663399?style=for-the-badge"/>
+</p>
+
+📊 GITHUB STATISTICS
 
 <div align="center">
 
-✨ KEEP LEARNING. KEEP BUILDING. KEEP EVOLVING. ✨
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishiMaheshwari-25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
 
-"Turning curiosity into code, and ideas into innovation."
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMaheshwari-25&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2457C5,100:090979&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=RishiMaheshwari-25&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+🏆 ACHIEVEMENTS & EDUCATION
+
+🎓 Education
+
+Bachelor of Technology (B.Tech)
+
+Branch: Internet of Things and Industrial Internet of Things (IIoT)
+
+University: Guru Gobind Singh Indraprastha University (GGSIPU), Delhi
+
+Graduation Year: 2028
+
+Current CGPA: 8.31
+
+🥇 Achievements
+
+Smart India Hackathon (SIH) 2026 — Successfully Cleared Round 2.
+
+🎯 CURRENT FOCUS
+
+Strengthening Full-Stack Development skills.
+
+Exploring scalable backend architectures and system design.
+
+Learning Generative AI, LLMs, RAG and AI Agent workflows.
+
+Improving Data Structures & Algorithms using C++.
+
+Building practical applications with modern technologies.
+
+🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/RishiMaheshwari-25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rishi-maheshwari-295313322/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+💬 OPEN TO LEARNING, COLLABORATION & OPPORTUNITIES
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
