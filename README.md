@@ -1,155 +1,235 @@
-👋 Hey, I'm Rishi Maheshwari!
 
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Generative AI Enthusiast</h3>
+<img src="https://img.shields.io/github/followers/RishiMaheshwari-25?style=for-the-badge&color=0D9DFF&label=FOLLOWERS" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+<h2 align="center">✦ &nbsp; A LITTLE ABOUT ME &nbsp; ✦</h2>
+
+<div align="center">
+
+Building with Logic. Creating with Passion. Innovating with AI.
+
+</div>
+
+I'm Rishi Maheshwari, a Full-Stack Developer passionate about engineering modern web experiences and exploring the possibilities of Artificial Intelligence.
+
+I love working at the intersection of Frontend Engineering, Backend Architecture, and Generative AI — transforming ideas into functional, scalable, and intelligent digital solutions.
+
+My development philosophy is simple: write clean code, solve meaningful problems, keep learning, and never stop building.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+💻 What I Do
+
+Full-Stack Web Development
+
+Modern Frontend Engineering
+
+Backend & REST API Development
+
+Database Design & Management
+
+Authentication & Application Security
+
+AI-Powered Application Development
+
+</td>
+<td width="50%" valign="top">
+
+🚀 What Drives Me
+
+Exploring emerging technologies
+
+Building scalable applications
+
+Learning AI Engineering
+
+Solving challenging problems
+
+Improving code quality
+
+Growing as a software engineer
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+<h2 align="center">⚡ &nbsp; TECHNOLOGIES & EXPERTISE &nbsp; ⚡</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Scalable+%26+Intelligent+Applications" />
+<i>The technologies I use to turn ideas into reality.</i>
+</p>
+
+<h3 align="center">🌐 Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,sass&theme=dark" />
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiMaheshwari-25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/RishiMaheshwari-25?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-👨‍💻 About Me
+<h3 align="center">🗄️ Databases & Vector Storage</h3>
 
-I'm a passionate Full-Stack Developer focused on building modern, scalable, and user-centric web applications using the MERN stack.
-
-I enjoy developing complete web solutions, from responsive frontend interfaces to secure backend architectures and database management.
-
-Alongside web development, I'm exploring Generative AI and AI Engineering, working with LLMs, LangChain, RAG pipelines, embeddings, and vector databases to integrate intelligent capabilities into applications.
-
-💻 Focused on Full-Stack Development.
-
-🧠 Exploring Generative AI, LLMs & RAG.
-
-⚙️ Interested in scalable backend architecture and API development.
-
-🔐 Learning secure authentication and authorization practices.
-
-🌱 Constantly exploring new technologies and improving my skills.
-
-🤝 Open to collaboration and exciting development opportunities.
-
-💪 Technical Skills
-
-🌐 Programming Languages & Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" />
+<img src="https://img.shields.io/badge/Pinecone-00B894?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 
-⚛️ Frontend Development
+<h3 align="center">🤖 Generative AI & AI Engineering</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,sass" />
+<p align="center">
+<img src="https://img.shields.io/badge/Generative_AI-7B2FF7?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-5C6BC0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Databases-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-673AB7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-⚙️ Backend Development
+<h3 align="center">🛠️ Tools & Development Environment</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,vercel,linux&theme=dark" />
 </p>
 
-🗄️ Databases & Storage
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-00B894?style=for-the-badge&logo=pinecone&logoColor=white" />
-</p>
+<!-- ═══════════════════════ KNOWLEDGE ═══════════════════════ -->
 
-🤖 Generative AI & AI Engineering
+<h2 align="center">🧠 &nbsp; MY TECHNICAL FOCUS &nbsp; 🧠</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector_Search-0066CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-6741D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+<div align="center">
 
-🛠️ Tools & Platforms
+💡 Domain
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,vercel,render" />
-</p>
+⚙️ Focus Areas
 
-🧠 Core Technical Expertise
+Frontend Engineering
 
-Area
+React, Redux, Responsive Interfaces
 
-Technical Knowledge
+Backend Engineering
 
-Frontend
+Node.js, Express, REST APIs
 
-React, Redux Toolkit, Responsive UI
+Application Security
 
-Backend
+JWT, RBAC, Authentication
 
-Node.js, Express.js, REST APIs
-
-Authentication
-
-JWT, RBAC, Middleware
-
-Databases
+Database Engineering
 
 MongoDB, MySQL, Redis
 
 AI Engineering
 
-LLMs, LangChain, RAG, Embeddings
+LLMs, LangChain, RAG
 
-Vector Search
+Intelligent Search
 
-Pinecone, Semantic Search
+Embeddings, Pinecone, Semantic Search
 
-Development
+Development Workflow
 
-Git, GitHub, Docker, Postman
+Git, GitHub, Docker
 
-📊 GitHub Statistics
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+
+<h2 align="center">📊 &nbsp; GITHUB ANALYTICS &nbsp; 📊</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishiMaheshwari-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMaheshwari-25&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RishiMaheshwari-25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMaheshwari-25&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiMaheshwari-25&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=RishiMaheshwari-25&theme=tokyonight&hide_border=true" />
 </p>
 
-🏆 GitHub Achievements
+<br/>
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+
+<h2 align="center">🌌 &nbsp; CONTRIBUTION ACTIVITY &nbsp; 🌌</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishiMaheshwari-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiMaheshwari-25&bg_color=0d1117&color=00d9ff&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-📈 Contribution Activity
+<br/>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+<h2 align="center">🏆 &nbsp; GITHUB ACHIEVEMENTS &nbsp; 🏆</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiMaheshwari-25&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=RishiMaheshwari-25&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
 </p>
 
-🤝 Let's Connect
+<br/>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<h2 align="center">🌐 &nbsp; LET'S CONNECT &nbsp; 🌐</h2>
 
 <p align="center">
-  <a href="https://github.com/RishiMaheshwari-25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishi-maheshwari-295313322/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishimaheshwari2527@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<i>Good things happen when passionate people connect.</i>
 </p>
-
-<h3 align="center">⚡ Code. Create. Innovate. Repeat.</h3>
-<h4 align="center">Thanks for visiting my profile! ⭐</h4>
 
 <p align="center">
-  <i>"Great software is built with curiosity, consistency, and creativity."</i>
+<a href="https://github.com/RishiMaheshwari-25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rishi-maheshwari-295313322/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rishimaheshwari2527@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+
+✨ KEEP LEARNING. KEEP BUILDING. KEEP EVOLVING. ✨
+
+"Turning curiosity into code, and ideas into innovation."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2457C5,100:090979&height=120&section=footer" width="100%" />
+
+</div>
