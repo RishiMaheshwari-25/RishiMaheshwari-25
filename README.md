@@ -63,6 +63,9 @@ I believe in continuous learning, writing maintainable code, and building applic
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <p>
+  <img src="https://skillicons.dev/icons?i=scss" />
+</p>
 </p>
 
 ⚙️ Backend Development
