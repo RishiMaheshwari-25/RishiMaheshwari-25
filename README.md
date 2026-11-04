@@ -1,145 +1,155 @@
-👋 Hi, I'm Rishi Maheshwari
+👋 Hey, I'm Rishi Maheshwari!
 
-Full-Stack Developer | MERN Stack | Generative AI Enthusiast
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Generative AI Enthusiast</h3>
 
-💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Generative+AI+Enthusiast;Building+Scalable+%26+Intelligent+Applications" />
+</p>
 
-I'm a passionate Full-Stack Developer specializing in building modern, scalable, and user-centric web applications. I have a strong foundation in JavaScript and the MERN stack, with hands-on experience in developing secure backend architectures, RESTful APIs, and responsive frontend applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RishiMaheshwari-25&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/RishiMaheshwari-25?label=Followers&style=for-the-badge&color=blue" />
+</p>
 
-I'm also exploring the world of Generative AI, working with Large Language Models (LLMs), LangChain, Retrieval-Augmented Generation (RAG), vector databases, and AI-powered integrations to build intelligent solutions.
+👨‍💻 About Me
 
-I enjoy solving complex problems, learning emerging technologies, and transforming innovative ideas into practical software solutions.
+I'm a passionate Full-Stack Developer focused on building modern, scalable, and user-centric web applications using the MERN stack.
 
-💻 Focused on Full-Stack Web Development.
+I enjoy developing complete web solutions, from responsive frontend interfaces to secure backend architectures and database management.
 
-🧠 Exploring Generative AI and AI Engineering.
+Alongside web development, I'm exploring Generative AI and AI Engineering, working with LLMs, LangChain, RAG pipelines, embeddings, and vector databases to integrate intelligent capabilities into applications.
 
-⚙️ Interested in Backend Architecture, API Development, and Database Optimization.
+💻 Focused on Full-Stack Development.
 
-🌱 Continuously learning and improving my technical skills.
+🧠 Exploring Generative AI, LLMs & RAG.
 
-🤝 Open to collaboration, internships, and software development opportunities.
+⚙️ Interested in scalable backend architecture and API development.
 
-💻 Technical Skills
+🔐 Learning secure authentication and authorization practices.
 
-Programming Languages
+🌱 Constantly exploring new technologies and improving my skills.
 
-JavaScript (ES6+)
+🤝 Open to collaboration and exciting development opportunities.
 
-TypeScript
+💪 Technical Skills
 
-HTML5
+🌐 Programming Languages & Web Technologies
 
-CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass" />
+</p>
 
-Frontend Development
+⚛️ Frontend Development
 
-React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,sass" />
+</p>
 
-Redux Toolkit
+⚙️ Backend Development
 
-SCSS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
+</p>
 
-Responsive Web Design
+🗄️ Databases & Storage
 
-React Router
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-00B894?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
 
-State Management
+🤖 Generative AI & AI Engineering
 
-Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-0066CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-6741D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
-Node.js
+🛠️ Tools & Platforms
 
-Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,vercel,render" />
+</p>
 
-RESTful API Development
+🧠 Core Technical Expertise
 
-JWT Authentication
+Area
 
-Role-Based Access Control (RBAC)
+Technical Knowledge
 
-Middleware & Error Handling
+Frontend
 
-Redis
+React, Redux Toolkit, Responsive UI
+
+Backend
+
+Node.js, Express.js, REST APIs
+
+Authentication
+
+JWT, RBAC, Middleware
 
 Databases
 
-MongoDB
+MongoDB, MySQL, Redis
 
-Mongoose
+AI Engineering
 
-MySQL
+LLMs, LangChain, RAG, Embeddings
 
-Pinecone
+Vector Search
 
-Database Design & Aggregation Pipelines
+Pinecone, Semantic Search
 
-Generative AI & AI Engineering
+Development
 
-Large Language Models (LLMs)
+Git, GitHub, Docker, Postman
 
-LangChain.js
+📊 GitHub Statistics
 
-Retrieval-Augmented Generation (RAG)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RishiMaheshwari-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMaheshwari-25&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Vector Databases
+<p align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=RishiMaheshwari-25&theme=tokyonight&hide_border=true" />
+</p>
 
-Semantic Search
+🏆 GitHub Achievements
 
-Embeddings
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RishiMaheshwari-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+</p>
 
-Prompt Engineering
+📈 Contribution Activity
 
-Gemini API Integration
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiMaheshwari-25&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
-DevOps & Developer Tools
+🤝 Let's Connect
 
-Git & GitHub
+<p align="center">
+  <a href="https://github.com/RishiMaheshwari-25">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rishi-maheshwari-295313322/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishimaheshwari2527@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Docker
+<h3 align="center">⚡ Code. Create. Innovate. Repeat.</h3>
+<h4 align="center">Thanks for visiting my profile! ⭐</h4>
 
-Postman
-
-VS Code
-
-npm
-
-Render
-
-Vercel
-
-⚡ Core Competencies
-
-Full-Stack Application Development
-
-Backend Architecture & API Design
-
-Authentication & Authorization
-
-Database Management & Optimization
-
-State Management
-
-AI/LLM Integration
-
-Problem Solving & Debugging
-
-Responsive UI Development
-
-Version Control & Collaboration
-
-📊 GitHub Analytics
-
-
-
-
-
-🌐 Connect With Me
-
-💼 GitHub: RishiMaheshwari-25
-
-🔗 LinkedIn: https://www.linkedin.com/in/rishi-maheshwari-295313322/
-
-📧 Email: rishimaheshwari2527@gmail.com
-
-🚀 Always Learning. Always Building. Always Improving.
+<p align="center">
+  <i>"Great software is built with curiosity, consistency, and creativity."</i>
+</p>
